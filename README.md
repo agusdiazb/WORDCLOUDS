@@ -3,6 +3,6 @@ Este script contiene los wordcloud de la encuesta sobre expectativas de cursada 
 
 Se utilzarán los siguientes paquetes
 
-### nltk
-### matplotlib
-### re
+### nltk (https://www.nltk.org/)
+### matplotlib (https://matplotlib.org/)
+### re (https://docs.python.org/3/library/re.html)
