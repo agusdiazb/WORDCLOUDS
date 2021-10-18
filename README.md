@@ -2,6 +2,7 @@
 Este script contiene los wordcloud de la encuesta sobre expectativas de cursada 2do cuat 2021
 
 Se utilzarán los siguientes paquetes
-__nltk
-matplotlib
-re__
+
+###nltk
+###matplotlib
+###re
