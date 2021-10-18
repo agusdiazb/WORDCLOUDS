@@ -1,5 +1,5 @@
-# WORDCLOUDS EXPECTATIVAS DE CURSADA 2DO CUATRIMESTRE 2021 - NEUROFISIOLOGÍA
-Este script contiene los wordcloud de la encuesta sobre expectativas de cursada 2do cuat 2021
+# WORDCLOUDS ABOUT NEUROPYSIOLOGY COURSE EXPECTATIONS
+This script contains the wordclouds of the expectations survey about the second semester of the course Neurophysiology
 
 ## Code and Resourses Used
 **Packages:** 
